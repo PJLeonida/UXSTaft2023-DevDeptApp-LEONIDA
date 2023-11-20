@@ -10,4 +10,4 @@ This is a simple web application made with React and TailwindCSS in fulfillment 
 - ReactJS
 - TailwindCSS
 
-* Note: might want to spam "Feeling Lucky!"
+`Note: might want to spam "Feeling Lucky!"`
